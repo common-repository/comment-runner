@@ -1,0 +1,16 @@
+/* alter default wordpress comments visibility */
+.comment-notes {
+  display:none;
+}
+
+input#email {
+  display:none;
+}
+
+input#url {
+  display:none;
+}
+
+h3.comment-reply-title {
+  padding-bottom:1em;
+}
